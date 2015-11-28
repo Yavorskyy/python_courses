@@ -10,3 +10,5 @@ for line in hhisto:
 
 for line in zip(*hhisto):
     print(''.join(line))
+
+print('hey, hey')
