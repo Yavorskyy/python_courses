@@ -1,4 +1,4 @@
-__author__ = 'andriy'
+__author__ = 'andriy yav'
 def is_palindrome(word):
     for i in xrange(len(word) // 2):
         if word[i] != word[-i-1]:
