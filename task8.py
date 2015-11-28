@@ -8,3 +8,5 @@ def is_palindrome(word):
 word = raw_input("Enter:")
 z = is_palindrome(word)
 print z
+
+print "test"
